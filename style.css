@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Onest&family=Pixelify+Sans&family=Teko&family=Tektur:wght@500&family=Ubuntu&display=swap');
+
+html {
+  height: 100%;
+  width: 100%;
+  font-family: 'Kanit', sans-serif;
+  background-color: #ababab;
+}
+
+/* body {
+  background-image: url("https://media.istockphoto.com/id/1304895375/vector/hand-drawn-seamless-pattern-of-business.jpg?s=612x612&w=0&k=20&c=0ZRxTOB_a6rOWL00i7cOgAv1Du9wkbE-2DQzomYEDag=");
+  margin: 20px;
+}
+ */
+
+
+.button {
+  background-color: #83A944;
+  padding: 30px;
+  width: 77px;
+  margin: 0 3px;
+  border: 2px solid #000000;
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+  text-size-adjust: auto;
+  border-radius: 20px;
+  cursor: pointer;
+
+}
+
+.cal-back {
+  width: 389px;
+
+  border-radius: 21px;
+  background-color: #0f3300;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px;
+  rgba(0, 0, 0, 0.24);
+}
+
+.row {
+  margin: 8px 0;
+  font-size: 27px;
+
+  font-family: 'Tektur', cursive;
+}
+
+.row input {
+
+  width: 333px;
+  font-size: 32px;
+  font-family: 'Tektur', cursive;
+  margin: 0;
+  padding: 10px 0px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+.button:hover {
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* .button { 
+  float: right;
+  border: 3px solid #0d0d0d;
+ */

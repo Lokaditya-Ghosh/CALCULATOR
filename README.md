@@ -7,7 +7,7 @@ This is a simple calculator web application built using HTML, JavaScript, and CS
 
 ## Demo
 
-You can see a live demo of the calculator here: [Demo Link](link-to-your-demo)
+You can see a live demo of the calculator here: [Demo Link](loks-calculator.netlify.app)
 
 ## Features
 
